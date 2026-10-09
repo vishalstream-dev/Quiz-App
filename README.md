@@ -2,8 +2,13 @@
 
 A responsive, browser-based multiple-choice quiz built with **HTML, CSS, and JavaScript**. The app displays one question at a time, gives instant visual feedback, tracks the score, and lets users restart the quiz.
 
-**Created by:** Vishal  
-**GitHub:** [@vishalstream-dev](https://github.com/vishalstream-dev)
+---
+## 👤 Author
+
+**Vishal Sharma**  
+GitHub: [vishalstream-dev](https://github.com/vishalstream-dev)
+
+Built as a hands-on project to practise JavaScript fundamentals, DOM manipulation, and event handling.
 
 ---
 
@@ -28,13 +33,6 @@ Create a folder named `screenshots` in the project root, save your images there,
 ### Final score
 
 ![Final score screen](screenshots/final-score.png)
-
-> **How to add screenshots**
-> 1. Run the app in your browser.
-> 2. Take screenshots of the question screen, answer feedback, and final score.
-> 3. Create a `screenshots` folder next to `index.html`.
-> 4. Save the images using the filenames shown above, or update the image paths in this README.
-> 5. Push the `screenshots` folder to GitHub. The images will then appear in this section.
 
 ---
 
@@ -148,15 +146,6 @@ These are planned ideas, not features currently implemented.
 - [x] Next Question moves through the quiz
 - [x] Final score appears after the last question
 - [x] Restart resets the quiz and score
-
----
-
-## 👤 Author
-
-**Vishal**  
-GitHub: [vishalstream-dev](https://github.com/vishalstream-dev)
-
-Built as a hands-on project to practise JavaScript fundamentals, DOM manipulation, and event handling.
 
 ---
 
